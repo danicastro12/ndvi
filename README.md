@@ -15,7 +15,7 @@ El Índice de Vegetación de Diferencia Normalizada (NDVI) es una medida ampliam
 
 ## Copyright
 
-© [EcoMetrics], [2024]
+© SAVI, [2024]
 
 Este proyecto está protegido por derechos de autor y se distribuye bajo [MIT]. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
